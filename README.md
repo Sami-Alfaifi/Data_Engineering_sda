@@ -1,0 +1,1 @@
+Created pipelines for ingesting data from varied sources into a Snowflake data warehouse. Utilized Apache Airbyte and AWS Lambda for data transformations, preparing it for BI analysis. Employed Metabase for dashboard and report generation from the transformed data.
